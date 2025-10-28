@@ -61,7 +61,8 @@ Amazon CloudWatch é o serviço de observabilidade: coleta e armazena métricas,
 AWS IAM (Identity and Access Management) controla quem pode fazer o quê em quais recursos. Modele identidades com usuários, grupos e funções (roles) e conceda permissões via políticas JSON (menor privilégio). Funções geram credenciais temporárias (STS); há federação/SSO; políticas baseadas em recurso (ex.: bucket policy). Auditoria com CloudTrail e análises com IAM Access Analyzer. Boas práticas: usar roles em vez de chaves, ativar MFA, rotacionar credenciais e separar contas por ambiente.
 
 ## Arquitetura
-![Arquitetura](./images/desafio-ec2.drawio.png)
+![Arquitetura](./images/desafio-ec2.png)
+![Link da Arquitetura](https://drive.google.com/file/d/1fq7w8-xrFz71FnOKIU3bvfAAY42Au6ys/view?usp=drive_link)
 
 
 ### Explicação da Arquitetura
