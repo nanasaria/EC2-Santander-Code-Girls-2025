@@ -62,7 +62,7 @@ AWS IAM (Identity and Access Management) controla quem pode fazer o quê em quai
 
 ## Arquitetura
 ![Arquitetura](./images/desafio-ec2.png)
-![Link da Arquitetura](https://drive.google.com/file/d/1fq7w8-xrFz71FnOKIU3bvfAAY42Au6ys/view?usp=drive_link)
+* [Link da Arquitetura](https://drive.google.com/file/d/1fq7w8-xrFz71FnOKIU3bvfAAY42Au6ys/view?usp=drive_link)
 
 
 ### Explicação da Arquitetura
